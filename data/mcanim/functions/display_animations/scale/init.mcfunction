@@ -3,4 +3,4 @@ execute unless data storage mcanim:api/display_animation/scale animation.duratio
 execute store result entity @s transformation.scale[0] float 1 run data get storage mcanim:api/display_animation/scale animation.x
 execute store result entity @s transformation.scale[1] float 1 run data get storage mcanim:api/display_animation/scale animation.y
 execute store result entity @s transformation.scale[2] float 1 run data get storage mcanim:api/display_animation/scale animation.z
-data modify entity @s interpolation_start set value -1
+data modify entity @s start_interpolation set value -1

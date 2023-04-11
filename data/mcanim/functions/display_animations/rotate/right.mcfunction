@@ -6,4 +6,4 @@ execute store result entity @s transformation.right_rotation[0] float 0.001 run 
 execute store result entity @s transformation.right_rotation[1] float 0.001 run scoreboard players get .j mcanim.display_animations.rotate
 execute store result entity @s transformation.right_rotation[2] float 0.001 run scoreboard players get .k mcanim.display_animations.rotate
 execute store result entity @s transformation.right_rotation[3] float 0.001 run scoreboard players get .extra mcanim.display_animations.rotate
-data modify entity @s interpolation_start set value -1
+data modify entity @s start_interpolation set value -1
