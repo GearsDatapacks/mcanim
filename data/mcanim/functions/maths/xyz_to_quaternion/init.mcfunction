@@ -1,3 +1,5 @@
+function mcanim:maths/xyz_to_quaternion/format_input
+
 function mcanim:maths/xyz_to_quaternion/calculate
 
 function mcanim:maths/xyz_to_quaternion/set_output
