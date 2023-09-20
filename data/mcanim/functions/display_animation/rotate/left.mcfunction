@@ -7,5 +7,3 @@ function mcanim:api/maths/xyz_to_quaternion
 data modify entity @s transformation.left_rotation set from storage mcanim:api/maths/xyz_to_quaternion output
 
 data modify entity @s start_interpolation set value 0
-
-data remove storage mcanim:api/display_animation/rotate animation
