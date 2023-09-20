@@ -1,6 +1,6 @@
 scoreboard objectives add mcanim.utils.maths dummy
 scoreboard objectives add mcanim.utils.constants dummy
-scoreboard objectives add mcanim.display_animations.rotate dummy
+scoreboard objectives add mcanim.display_animation.rotate dummy
 scoreboard objectives add mcanim.maths.xyz_to_quaternion dummy
 scoreboard objectives add mcanim.maths.quaternion_to_xyz dummy
 
