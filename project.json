@@ -1,0 +1,22 @@
+{
+  "name": "MCAnim",
+  "slug": "mcanim",
+  "version": "0.1.2",
+  "game_versions": [
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5"
+  ],
+  "summary": "A library for display entity animation in Minecraft",
+  "license": "LGPL-3.0-or-later",
+  "categories": ["library", "utility"],
+  "additional_categories": [],
+  "dependencies": {},
+  "dev_dependencies": {},
+  "optional_dependencies": {},
+  "release_type": "release",
+  "dpm_version": "0.1.2"
+}
