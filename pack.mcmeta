@@ -1,7 +1,6 @@
 {
    "pack":{
-      "pack_format": 41,
-      "supported_formats": {"min_inclusive": 15, "max_inclusive": 41},
+      "pack_format": 48,
       "description": "A library for display entity animation in Minecraft"
    }
 }
